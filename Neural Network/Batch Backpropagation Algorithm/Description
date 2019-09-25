@@ -1,2 +1,4 @@
-For further details see report on main folder
+Instructions:
 
+First it is neccesary to run "matrix_features_train_test_data_v2" this will create the neccesary matrix for the program 
+"batch_backpropagation_algorithm_v3" to run, otherways you will get an error
