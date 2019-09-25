@@ -1,1 +1,6 @@
-sajrhfaps
+INSTRUCTIONS:
+
+1- Run "matrix_features_v4" this will create the data files with the matrixes corresponding to the training, validatin and test data
+2- Run "train_validation_test_curves_v4": this will create the matrixes defining the weights of the Neural Network
+3- Run "classifier_v3": This program will evaluate the model with the test data and will create the confussion matrix for further analysis
+of the accuracy of the model
