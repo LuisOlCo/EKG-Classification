@@ -1,4 +1,4 @@
 Instructions:
 
-First it is neccesary to run "matrix_features_train_test_data_v2" this will create the neccesary matrix for the program 
-"batch_backpropagation_algorithm_v3" to run, otherways you will get an error
+1- Run "matrix_features_train_test_data_v2": this program creates the data matrix that they will be used in the neural network 
+2- Run "batch_backpropagation_algorithm_v3": it will compute the parameters of the neural network
