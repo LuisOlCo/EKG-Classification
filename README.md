@@ -2,7 +2,7 @@
 
 Objective of the Project
 
-The main goal of this project is the classification of EKG or ECG waves (the heartbeat waves measure by a monitor), each EKG corresponds to a patient that may have or may not have a heart disease. Both training data and test data can be classified into four different classes:
+The main goal of this project is the classification of EKG or ECG waves (the heartbeat waves measure by a monitor), each EKG corresponds to a patient that may have or may not have a heart disease. Both training data and test data can be classified into three different classes:
 
 •	N: Normal beat
 •	S: Supraventricular premature beat
